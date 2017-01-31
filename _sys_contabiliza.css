@@ -1,0 +1,105 @@
+a:link       { color: #000000;text-decoration : none }
+a:visited    { color: #000000;text-decoration : none }
+a:hover      { color: #0000FF }
+.sim{background-color:#DFDCCA }
+.nao{background-color:#E6E4D9 }
+.iBorda
+{
+border:1px;
+border-color:#000000;
+}
+.inpsim {
+	height: 20px;
+	width: auto;
+	border: 1px solid #EFEFEF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	background-color:#EFEFEF; 
+}
+.inpnao {
+	height: 20px;
+	width: auto;
+	border: 1px solid #E2E2AD;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	background-color:#E2E2AD; 
+}
+.inpEsim {
+	height: 20px;
+	width: auto;
+	border: 1px solid #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	background-color:#EFEFEF; 
+}
+.inpEnao {
+	height: 20px;
+	width: auto;
+	border: 1px solid #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	background-color:#E2E2AD; 
+}
+
+input {
+	height: 20px;
+	width: auto;
+	border: 1px solid #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+}
+.texto {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 11px;
+	color: #000000;
+}
+
+.help {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 10px;
+	color: #0000FF;
+}
+
+.linha5 { line-height: 5px;}
+.linha10 { line-height: 10px;}
+.linha15 { line-height: 15px;}
+
+.Titulo {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 11px;
+	color: #000000;
+	font-weight: bolder;
+}
+.resumo {
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 10px;
+	color: #666666;
+}
+.GrupoMenu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-align: justify;
+}
+.Menu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #988964;
+	background-color: #E6E4D9;
+}
+.TitPagina {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bolder;
+	color: #993300;
+}
+select { 
+	font-size:11px;
+	font-family:tahoma,verdana,arial,helvetica;
+	color: Blue;
+}
